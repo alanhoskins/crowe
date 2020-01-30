@@ -1,0 +1,13 @@
+/Users/alanhoskins/Code/crowe/Crowe/bin/Debug/netcoreapp3.0/Crowe
+/Users/alanhoskins/Code/crowe/Crowe/bin/Debug/netcoreapp3.0/Crowe.deps.json
+/Users/alanhoskins/Code/crowe/Crowe/bin/Debug/netcoreapp3.0/Crowe.runtimeconfig.json
+/Users/alanhoskins/Code/crowe/Crowe/bin/Debug/netcoreapp3.0/Crowe.runtimeconfig.dev.json
+/Users/alanhoskins/Code/crowe/Crowe/bin/Debug/netcoreapp3.0/Crowe.dll
+/Users/alanhoskins/Code/crowe/Crowe/bin/Debug/netcoreapp3.0/Crowe.pdb
+/Users/alanhoskins/Code/crowe/Crowe/obj/Debug/netcoreapp3.0/Crowe.csprojAssemblyReference.cache
+/Users/alanhoskins/Code/crowe/Crowe/obj/Debug/netcoreapp3.0/Crowe.AssemblyInfoInputs.cache
+/Users/alanhoskins/Code/crowe/Crowe/obj/Debug/netcoreapp3.0/Crowe.AssemblyInfo.cs
+/Users/alanhoskins/Code/crowe/Crowe/obj/Debug/netcoreapp3.0/Crowe.dll
+/Users/alanhoskins/Code/crowe/Crowe/obj/Debug/netcoreapp3.0/Crowe.pdb
+/Users/alanhoskins/Code/crowe/Crowe/bin/Debug/netcoreapp3.0/Newtonsoft.Json.dll
+/Users/alanhoskins/Code/crowe/Crowe/obj/Debug/netcoreapp3.0/Crowe.csproj.CopyComplete
